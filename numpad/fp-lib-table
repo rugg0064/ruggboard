@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/lib/footprint/keebio")(options "")(descr ""))
+  (lib (name "mx")(type "KiCad")(uri "${KIPRJMOD}/lib/footprint/mx")(options "")(descr ""))
+  (lib (name "numpad")(type "KiCad")(uri "${KIPRJMOD}/lib/footprint/numpad")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/lib/footprint/promicro")(options "")(descr ""))
+  (lib (name "bonsaiC")(type "KiCad")(uri "${KIPRJMOD}/lib/footprint/Bonsai_C4.pretty")(options "")(descr ""))
+)

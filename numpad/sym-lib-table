@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "numpad")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/numpad/symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/promicro/promicro.kicad_sym")(options "")(descr ""))
+)
